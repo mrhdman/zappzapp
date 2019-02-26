@@ -1,0 +1,6 @@
+.home {
+    border: .5em solid white;
+}
+.home img {
+    max-width: 100%;
+}
